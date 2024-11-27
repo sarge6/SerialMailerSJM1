@@ -1,0 +1,6 @@
+src/main/resources/mail.properties
+set smtp server access data/credentials explicitly in test methods
+OR in mail.properties before usage (and erase later before push)
+
+LIBS: https://dev.to/suprsend/send-emails-using-java-javamail-api-or-simple-java-mail-or-suprsend-java-sdk-4pp3
+JSM: https://www.baeldung.com/java-sjm-email
