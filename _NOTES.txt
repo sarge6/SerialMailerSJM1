@@ -1,3 +1,5 @@
+27.11.2024 IntelliJ IDEA 2022.2.5 (Community Edition), Gradle
+
 src/main/resources/mail.properties
 set smtp server access data/credentials explicitly in test methods
 OR in mail.properties before usage (and erase later before push)
